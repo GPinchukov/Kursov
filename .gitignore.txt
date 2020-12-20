@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+node_modules
+venv
+frontend
+*.pyc
+*~
+__pycache__
+env
+.DS_Store
